@@ -1,0 +1,114 @@
+{
+  "ads": {
+    "settings": {
+      "app_id_onesignal": "off",
+      "interval_interstitial": 2
+    },
+
+    "ad_network": [
+      {
+        "name": "admob",
+        "value": 1,
+
+        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "mrec": "ca-app-pub-3940256099942544/6300978111",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "native_ad": "ca-app-pub-3940256099942544/2247696110",
+        "open_ad": "ca-app-pub-3940256099942544/3419835294",
+        "splash_ad": true
+      }
+    ]
+  },
+
+
+  "app_settings" : {
+    "list_view_mode" : "big",
+    "item_interval_native_ad_list": 4,
+    "enable_category": false,
+    "enable_more_app": false
+  },
+
+
+  "More": [
+    
+  ],
+
+  "Categories": [
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Guide",
+      "title": "What is Visit Japan Web?",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Visit Japan Web is a Fast Track Registration portal for visitors to complete most of the immigration paperwork before their arrival",
+      "link": "https://latoquiz.blogspot.com/p/what-is-visit-japan-web.html"
+    },
+  ]{
+      "id": 2,
+      "name_category": "Guide",
+      "title": "Whats Diference Between Mysos and Visit Japan Web",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "MySOS is the predecessor of Visit Japan Web",
+      "link": "https://latoquiz.blogspot.com/p/whats-difference-between-mysos-app-and.html"
+    },
+	{
+      "id": 3,
+      "name_category": "Guide",
+      "title": "User Registration of Visit Japan Web",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Visitors will first need to register an account with Visit Japan Web (email address and password creation)",
+      "link": "https://latoquiz.blogspot.com/p/user-registration-of-visit-japan-web.html"
+    },
+	{
+      "id": 4,
+      "name_category": "Guide",
+      "title": "Trip Details on Visit Japan Web",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Please click on “Registering Planned Entry/Return” and click “New Registration”.",
+      "link": "https://latoquiz.blogspot.com/p/trip-details-on-visit-japan-web.html"
+    },
+	{
+      "id": 5,
+      "name_category": "Guide",
+      "title": "Quarantine Procedures Fast Track",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Go to “Japan Entry/Return Procedure Screen” and click “Quarantine Procedures (Fast Track)”",
+      "link": "https://latoquiz.blogspot.com/p/quarantine-procedures-fast-track-for.html"
+    },
+	{
+      "id": 6,
+      "name_category": "Guide",
+      "title": "Imigration",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Please go to “Japan entry/return procedure” and scroll to “Preparation for Immigration Clearance”",
+      "link": "https://latoquiz.blogspot.com/p/immigration.html"
+    },
+	{
+      "id": 7,
+      "name_category": "Guide",
+      "title": "Customs",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Please go to “Japan entry/return procedure” and scroll to “Preparation for customs clearance”",
+      "link": "https://latoquiz.blogspot.com/p/customs.html"
+    },
+	{
+      "id": 8,
+      "name_category": "Guide",
+      "title": "Other Information",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "There is one more section titled “After entering Japan (during the stay in Japan)” with 2 sub-sections",
+      "link": "https://latoquiz.blogspot.com/p/other-information-about-visit-japan-web.html"
+    },
+	{
+      "id": 9,
+      "name_category": "Guide",
+      "title": "Frequently Asked Questions",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "The Most Frequently Asked Questions",
+      "link": "https://latoquiz.blogspot.com/p/frequently-asked-questions.html"
+    }
+}
