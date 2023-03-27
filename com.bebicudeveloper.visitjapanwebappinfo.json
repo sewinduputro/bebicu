@@ -47,7 +47,7 @@
       "description": "Visit Japan Web is a Fast Track Registration portal for visitors to complete most of the immigration paperwork before their arrival",
       "link": "https://latoquiz.blogspot.com/p/what-is-visit-japan-web.html"
     },
-  ]{
+	{
       "id": 2,
       "name_category": "Guide",
       "title": "Whats Diference Between Mysos and Visit Japan Web",
@@ -111,4 +111,5 @@
       "description": "The Most Frequently Asked Questions",
       "link": "https://latoquiz.blogspot.com/p/frequently-asked-questions.html"
     }
+]
 }
