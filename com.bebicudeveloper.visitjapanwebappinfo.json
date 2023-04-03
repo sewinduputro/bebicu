@@ -10,12 +10,12 @@
         "name": "admob",
         "value": 1,
 
-        "appId_appKey_publisherId_gameId": "ca-app-pub-3940256099942544~3347511713",
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "mrec": "ca-app-pub-3940256099942544/6300978111",
-        "inter": "ca-app-pub-3940256099942544/1033173712",
-        "native_ad": "ca-app-pub-3940256099942544/2247696110",
-        "open_ad": "ca-app-pub-3940256099942544/3419835294",
+        "appId_appKey_publisherId_gameId": "ca-app-pub-1587839836962735~6110006339",
+        "banner": "ca-app-pub-1587839836962735/6482106078",
+        "mrec": "ca-app-pub-1587839836962735/6482106078",
+        "inter": "ca-app-pub-1587839836962735/3420828468",
+        "native_ad": "-",
+        "open_ad": "ca-app-pub-1587839836962735/6764095536",
         "splash_ad": true
       }
     ]
