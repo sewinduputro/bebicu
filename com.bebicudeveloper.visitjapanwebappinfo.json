@@ -2,8 +2,25 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "off",
-      "interval_interstitial": 2
+      "interval_interstitial": 2,
+      "add_intro_menu_activity" : true
     },
+
+    "ad_network": [
+      {
+        "name": "fan",
+        "value": 10,
+
+        "appId_appKey_publisherId_gameId": "241335665050067",
+        "banner": "241335665050067_241339491716351",
+        "mrec": "241335665050067_241339691716331",
+        "inter": "241335665050067_241339575049676",
+        "native_ad": "241335665050067_241339861716314",
+        "open_ad": "-",
+        "splash_ad": true
+      }
+        ]
+     },
 
     "ad_network": [
       {
