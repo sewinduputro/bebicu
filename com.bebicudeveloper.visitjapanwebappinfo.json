@@ -2,14 +2,13 @@
   "ads": {
     "settings": {
       "app_id_onesignal": "off",
-      "interval_interstitial": 2,
-      "add_intro_menu_activity" : true
+      "interval_interstitial": 2
     },
 
     "ad_network": [
       {
         "name": "fan",
-        "value": 10,
+        "value": 1,
 
         "appId_appKey_publisherId_gameId": "241335665050067",
         "banner": "241335665050067_241339491716351",
@@ -21,22 +20,6 @@
       }
         ]
      },
-
-    "ad_network": [
-      {
-        "name": "admob",
-        "value": 1,
-
-        "appId_appKey_publisherId_gameId": "ca-app-pub-1587839836962735~6110006339",
-        "banner": "ca-app-pub-1587839836962735/6482106078",
-        "mrec": "ca-app-pub-1587839836962735/6482106078",
-        "inter": "ca-app-pub-1587839836962735/3420828468",
-        "native_ad": "-",
-        "open_ad": "ca-app-pub-1587839836962735/6764095536",
-        "splash_ad": true
-      }
-    ]
-  },
 
 
   "app_settings" : {
@@ -77,7 +60,7 @@
       "name_category": "Guide",
       "title": "User Registration of Visit Japan Web",
       "image": "file:///android_asset/image/icon.png",
-      "description": "Visitors will first need to register an account with Visit Japan Web (email address and password creation)",
+      "description": "Visitors will first need to register an account with Visit Japan Web email address and password creation",
       "link": "https://latoquiz.blogspot.com/p/user-registration-of-visit-japan-web.html"
     },
 	{
@@ -85,7 +68,7 @@
       "name_category": "Guide",
       "title": "Trip Details on Visit Japan Web",
       "image": "file:///android_asset/image/icon.png",
-      "description": "Please click on “Registering Planned Entry/Return” and click “New Registration”.",
+      "description": "Please click on Registering Planned Entry/Return and click New Registration",
       "link": "https://latoquiz.blogspot.com/p/trip-details-on-visit-japan-web.html"
     },
 	{
@@ -93,7 +76,7 @@
       "name_category": "Guide",
       "title": "Quarantine Procedures Fast Track",
       "image": "file:///android_asset/image/icon.png",
-      "description": "Go to “Japan Entry/Return Procedure Screen” and click “Quarantine Procedures (Fast Track)”",
+      "description": "Go to Japan Entry/Return Procedure Screen and click Quarantine Procedures Fast Track",
       "link": "https://latoquiz.blogspot.com/p/quarantine-procedures-fast-track-for.html"
     },
 	{
@@ -101,7 +84,7 @@
       "name_category": "Guide",
       "title": "Imigration",
       "image": "file:///android_asset/image/icon.png",
-      "description": "Please go to “Japan entry/return procedure” and scroll to “Preparation for Immigration Clearance”",
+      "description": "Please go to Japan entry/return procedure and scroll to Preparation for Immigration Clearance",
       "link": "https://latoquiz.blogspot.com/p/immigration.html"
     },
 	{
@@ -109,7 +92,7 @@
       "name_category": "Guide",
       "title": "Customs",
       "image": "file:///android_asset/image/icon.png",
-      "description": "Please go to “Japan entry/return procedure” and scroll to “Preparation for customs clearance”",
+      "description": "Please go to Japan entry/return procedure and scroll to Preparation for customs clearance",
       "link": "https://latoquiz.blogspot.com/p/customs.html"
     },
 	{
@@ -117,7 +100,7 @@
       "name_category": "Guide",
       "title": "Other Information",
       "image": "file:///android_asset/image/icon.png",
-      "description": "There is one more section titled “After entering Japan (during the stay in Japan)” with 2 sub-sections",
+      "description": "There is one more section titled After entering Japan during the stay in Japan with 2 sub-sections",
       "link": "https://latoquiz.blogspot.com/p/other-information-about-visit-japan-web.html"
     },
 	{
@@ -127,6 +110,38 @@
       "image": "file:///android_asset/image/icon.png",
       "description": "The Most Frequently Asked Questions",
       "link": "https://latoquiz.blogspot.com/p/frequently-asked-questions.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Tips",
+      "title": "Top 10 Place in Japan",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "Best Places to Visit in Japan & Things to Do",
+      "link": "https://latoquiz.blogspot.com/p/10-best-places-to-visit-in-japan.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Tips",
+      "title": "How long do you need in Japan",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "There is so much to see, we have spent months in the country and still have a long bucket list",
+      "link": "https://latoquiz.blogspot.com/p/travel-budget-counter.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Tips",
+      "title": "Crucial Japan Travel Tips",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "20+ crucial Japan travel tips to know before you go",
+      "link": "https://latoquiz.blogspot.com/p/crucial-japan-travel-tips.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Tips",
+      "title": "10 Best 5 Star Hotels",
+      "image": "file:///android_asset/image/icon.png",
+      "description": "List of Best Luxury Hotels in Japan",
+      "link": "https://latoquiz.blogspot.com/p/10-best-5-star-hotels.html"
     }
 ]
 }
